@@ -1,0 +1,19 @@
+*{
+    margin:0;
+}
+.footer{
+    background-color: #111111;
+    border-top: #333333 solid 2px;
+    border-bottom: 20px solid #111111;
+    height: 120%;
+    color: white;
+}
+a{
+    margin: 0 4% !important;
+}
+.fot{
+    margin: 0 0 3% 0 !important;
+}
+.link{
+    margin: 0 0 3% 0 !important;
+}

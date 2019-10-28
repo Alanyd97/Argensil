@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding: 0;
+}
+h3{
+    border-bottom:black solid 3px;
+}
+.card-margen, h4{
+    margin: 3% 0 0 0 !important;
+}
+.card-margen-suelta{
+    margin: 6% 0 0 0 !important;
+}
